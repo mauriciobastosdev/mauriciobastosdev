@@ -25,7 +25,7 @@ Sou desenvolvedor de software backend desde 2023 e apaixonado por computação d
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciobastosdev&theme=tokyonight&custom_title=Top%20%Linguagens)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciobastosdev/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciobastosdev/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mauriciobastosdev/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
