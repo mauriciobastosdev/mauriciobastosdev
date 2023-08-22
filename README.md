@@ -20,9 +20,10 @@ Sou desenvolvedor de software backend desde 2023 e apaixonado por computação d
 >O importante é não parar de questionar; a curiosidade tem sua própria razão de existir - Albert Einstein
 >
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mauriciobastosdev&show_icons=true&theme=dracula"/> </a>
-
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mauriciobastosdev&theme=react&line_height=40&hide=css"/> </a>
+<div>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mauriciobastosdev&show_icons=true&theme=dracula"/> </a>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mauriciobastosdev&theme=dracula&line_height=40&hide=css"/> </a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciobastosdev/mauriciobastosdev/output/github-contribution-grid-snake-dark.svg">
